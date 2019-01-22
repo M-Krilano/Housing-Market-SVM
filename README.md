@@ -20,5 +20,6 @@ I used plotly but github performs a static render of the notebooks and it doesn'
 
 Notebook Links:
 1) New Mexico Analysis
-https://github.com/M-Krilano/HousingMarket/blob/master/new_mexico_analysis.ipynb
+https://github.com/M-Krilano/Housing-Market-SVM/blob/master/new_mexico_analysis.ipynb
 2) Housing Market Prediction
+https://github.com/M-Krilano/Housing-Market-SVM/blob/master/housing_prediction.ipynb
